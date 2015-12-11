@@ -1,0 +1,18 @@
+1.Modifique el código de parsear blogs para agrupar entradas individuales
+en lugar de blogs enteros. ¿Las entradas del mismo blog se agrupan unas 
+con otras?¿Que hay de las entradas de la misma fecha?
+
+
+2.Pruebe usando la distancia euclidiana para clustering de los blogs. 
+¿Cómo cambia esto los resultados?
+para poder realizarlo ,  no me salia asi que por github encontre esto 
+https://github.com/arthur-e/Programming-Collective-Intelligence.git me parece muy inetrezante 
+
+3.Investigue acerca de la distancia de Manhattan. Cree una función para
+ esta y vea cómo cambia los resultados.
+igual para este solo tube que observar el primero y darle la distancia de manhatan 
+porque vu un ejemplo parecdico en el repsositorio
+
+4.Modifique la función del clustering K-means para que devuelva la distancia 
+total ente todos los ítems de sus respectivos centroides.
+le añadi un for pero no me bota nada me sale error , estoy avznazandolo
